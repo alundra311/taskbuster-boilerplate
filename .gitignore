@@ -3,3 +3,5 @@ __pycache__
 Taskbuster.sublime-workspace
 functional_tests/geckodriver.log
 geckodriver.log
+.coverage
+htmlcov
